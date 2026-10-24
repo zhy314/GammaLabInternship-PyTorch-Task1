@@ -1,0 +1,6 @@
+mlp_val_acc=1.0000
+knn_val_acc=0.9677
+test_prediction_agreement=0.8214
+test_rows=84
+knn_k=5
+note=验证集指标使用同一分层划分；均值和标准差只由训练子集估计。kNN 测试提交仍由 baseline.py 在全部训练集上拟合。
